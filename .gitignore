@@ -4,3 +4,4 @@
 server.so
 assets.h
 cert
+*.swp
